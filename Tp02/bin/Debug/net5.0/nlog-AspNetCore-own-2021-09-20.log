@@ -1,0 +1,85 @@
+2021-09-20 17:29:04.0585|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 17:29:10.1350|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 17:29:10.1904|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 17:29:10.2426|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 17:29:10.7336|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'NLog.Logger' while attempting to activate 'Tp02.Controllers.HomeController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method2(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/|action: Index|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke| body: 
+2021-09-20 21:22:25.5044|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 21:22:29.0390|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:22:29.1047|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:22:29.1047|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:22:29.5383|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'NLog.Logger' while attempting to activate 'Tp02.Controllers.HomeController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method2(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/|action: Index|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke| body: 
+2021-09-20 21:54:32.1205|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 21:54:36.4585|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:54:36.4585|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:54:36.4753|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:57:04.7916|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 21:57:06.2711|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:57:06.2861|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:57:06.2976|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:58:01.5697|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 21:58:03.1181|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:58:03.1251|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 21:58:03.1251|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:02:08.4204|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 22:02:09.4530|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:02:09.4711|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:02:09.4711|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:03:00.6685|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 22:03:03.6002|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:03:03.6123|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:03:03.6123|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:03:09.2785|0|ERROR|Tp02.Controllers.HomeController|Se ingresaron campos vacios |url: https://localhost/Home/practico2|action: practico2|Tp02.Controllers.HomeController.practico2| body: 
+2021-09-20 22:03:18.8644|0|ERROR|Tp02.Controllers.HomeController|Se ingresaron campos vacios |url: https://localhost/Home/practico2|action: practico2|Tp02.Controllers.HomeController.practico2| body: 
+2021-09-20 22:03:31.3323|0|ERROR|Tp02.Controllers.HomeController|Se ingresaron campos vacios |url: https://localhost/Home/practico2|action: practico2|Tp02.Controllers.HomeController.practico2| body: 
+2021-09-20 22:13:50.3185|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 22:13:51.5991|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:13:51.6094|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:13:51.6094|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:13:54.7598|0|ERROR|Tp02.Controllers.HomeController|Se ingresaron campos vacios |url: https://localhost/Home/practico2|action: practico2|Tp02.Controllers.HomeController.practico2| body: 
+2021-09-20 22:17:43.1277|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 22:17:44.3353|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:17:44.3509|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:17:44.3624|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:17:56.6299|0|INFO|Tp02.Controllers.HomeController|Datos guardados: Araceli Silva, Mariano moreno, 14/9/2021 00:00:00, 15/9/2021 00:00:00 |url: https://localhost/Home/practico2|action: practico2|Tp02.Controllers.HomeController.practico2| body: 
+2021-09-20 22:25:02.3298|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 22:25:03.7161|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:25:03.7405|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:25:03.7521|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:25:09.8151|0|ERROR|Tp02.Controllers.HomeController|Se ingresaron campos vacios |url: https://localhost/Home/practico2|action: practico2|Tp02.Controllers.HomeController.practico2| body: 
+2021-09-20 22:26:17.9026|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-20 22:26:19.2080|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:26:19.2248|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:26:19.2356|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-20 22:26:26.0615|0|ERROR|Tp02.Controllers.HomeController|Se ingresaron campos vacios |url: https://localhost/Home/practico2|action: practico2|Tp02.Controllers.HomeController.practico2| body: 

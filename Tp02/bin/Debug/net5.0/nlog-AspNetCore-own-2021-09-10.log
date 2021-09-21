@@ -1,0 +1,84 @@
+2021-09-10 15:49:14.3490|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-10 15:49:16.7347|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:49:16.7506|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:49:16.7626|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:49:16.8717|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:50:49.8119|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-10 15:50:51.1779|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:50:51.2154|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:50:51.2154|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:50:51.2878|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:56:50.0342|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-10 15:56:51.2282|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:56:51.2441|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:56:51.2564|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:56:51.3260|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:16.6061|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:38.1419|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:39.8943|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:40.5566|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:41.0940|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:41.6791|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:42.5528|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:43.4161|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:43.9193|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:44.1627|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:44.3679|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:57:44.6352|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 15:59:45.6982|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-10 15:59:47.0234|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:59:47.0325|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:59:47.0436|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 15:59:47.3112|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 16:02:42.4455|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-10 16:02:43.7803|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:02:43.7915|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:02:43.7915|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:02:43.8874|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 16:05:08.5261|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-10 16:05:09.6831|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:05:09.6831|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:05:09.7124|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:05:09.7960|0|INFO|Tp02.Controllers.HomeController|Hello, this is the index! |url: https://localhost/|action: Index|Tp02.Controllers.HomeController.Index| body: 
+2021-09-10 16:44:57.5855|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-10 16:44:59.2753|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:44:59.2872|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:44:59.3019|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:44:59.9389|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'NLog.Logger' while attempting to activate 'Tp02.Controllers.HomeController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method2(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/|action: Index|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke| body: 
+2021-09-10 16:46:39.8540|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-10 16:46:41.5132|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:46:41.6354|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:46:41.6354|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-10 16:46:41.6354|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'NLog.Logger' while attempting to activate 'Tp02.Controllers.HomeController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method2(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/|action: Index|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke| body: 

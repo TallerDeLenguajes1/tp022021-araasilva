@@ -1,0 +1,5 @@
+2021-09-21 14:11:38.1001|0|DEBUG|Tp02.Program|init main |url: |action: |Tp02.Program.Main| body: 
+2021-09-21 14:11:49.2964|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-21 14:11:49.3332|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-21 14:11:49.3880|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Taller 2\Trabajos Practicos\tp022021-araasilva\Tp02 |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2021-09-21 14:11:54.5100|0|ERROR|Tp02.Controllers.HomeController|Se ingresaron campos vacios |url: https://localhost/Home/practico2|action: practico2|Tp02.Controllers.HomeController.practico2| body: 

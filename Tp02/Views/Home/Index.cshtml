@@ -1,0 +1,30 @@
+﻿<div class="text-center">
+    <h1 class="display-4">Ingrese los datos del empleado</h1>
+
+    <form asp-action="practico2"  asp-controller="Home" method="post">
+        <div class="input-group">
+            <span class="input-group-text">Nombre y Apellido</span>
+            <input type="text" aria-label="First name" class="form-control" id="nombre" name="nombre">
+            <input type="text" aria-label="Last name" class="form-control" id="apellido" name="apellido">
+        </div>
+        <div class="row mb-3">
+            <label for="fechaNac" class="col-sm-2 col-form-label">Fecha de Nacimiento</label>
+            <div class="col-sm-10">
+                <input type="date" class="form-control" id="fechaNacimiento" name="fechaNacimiento">
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label for="direc" class="col-sm-2 col-form-label">Dirección de Domicilio</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="direccion" name="direccion">
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label for="fechaIngreso" class="col-sm-2 col-form-label">Fecha de Ingreso</label>
+            <div class="col-sm-10">
+                <input type="date" class="form-control" id="fechaIngreso" name="fechaIngreso">
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Cargar</button>
+    </form>
+</div>
